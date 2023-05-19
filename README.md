@@ -1,14 +1,21 @@
 
 ![Visit the Link](https://i.imgur.com/fs1ke62.png)
 
+
+
+
+### :speech_balloon: About Me  
+---
 My name is Devan Rivera, and I am a web developer with a passion for crafting immersive experiences through elegant and functional designs. I possess strong skills in JavaScript, React.js, CSS, HTML, Node.js, and PostgreSQL, allowing me to create dynamic, user-friendly, and visually appealing web applications. When I'm not coding, you'll find me hiking, watching basketball, or enjoying quality time with my pets.
 
 ### 📫 Let's Connect!: 
+---
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://flowcv.com/resume/chbnor1vje)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devanrivera/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devanrivera98)
 
-## Skills/Frameworks
+### Skills/Frameworks
+---
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
