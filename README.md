@@ -1,9 +1,6 @@
 
 ![Visit the Link](https://i.imgur.com/fs1ke62.png)
 
-
-
-
 ### :speech_balloon: About Me  
 ---
 My name is Devan Rivera, and I am a web developer with a passion for crafting immersive experiences through elegant and functional designs. I possess strong skills in JavaScript, React.js, CSS, HTML, Node.js, and PostgreSQL, allowing me to create dynamic, user-friendly, and visually appealing web applications. When I'm not coding, you'll find me hiking, watching basketball, or enjoying quality time with my pets.
@@ -30,6 +27,8 @@ My name is Devan Rivera, and I am a web developer with a passion for crafting im
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devanrivera98&theme=tokyonight&hide=stars,contribs)
 
 <!--
 **devanrivera98/devanrivera98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
