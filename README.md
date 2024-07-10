@@ -3,7 +3,13 @@
 
 ### :speech_balloon: About Me  
 ---
-My name is Devan Rivera, and I am a web developer with a passion for crafting immersive experiences through elegant and functional designs. I possess strong skills in JavaScript, React.js, CSS, HTML, Node.js, and PostgreSQL, allowing me to create dynamic, user-friendly, and visually appealing web applications. When I'm not coding, you'll find me hiking, watching basketball, or enjoying quality time with my pets.
+👋 Hey there! I'm Devan Rivera, a results-driven web developer passionate about creating impactful digital experiences with a focus on elegant design and robust functionality.
+
+💼 Proficient in JavaScript (including ES6+), React.js, CSS3, Tailwind CSS, Boostrap, Figma, HTML5, Node.js, and PostgreSQL, I specialize in architecting and deploying scalable web applications that prioritize user experience without compromising on performance.
+
+🚀 Outside the digital realm, you'll find me exploring new trails while hiking, watching basketball, or enjoying quality time with my pets.
+
+🌟 Let's connect and discuss how my expertise in web development can contribute to your team's success!
 
 ### 📫 Let's Connect!: 
 ---
